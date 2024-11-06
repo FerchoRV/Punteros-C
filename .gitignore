@@ -1,0 +1,11 @@
+# Ignorar archivos .exe generados
+*.exe
+
+# Ignorar archivos temporales de compilación
+*.o
+*.obj
+*.log
+
+# Ignorar directorios de compilación
+build/
+bin/
